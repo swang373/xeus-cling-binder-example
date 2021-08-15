@@ -1,7 +1,7 @@
 name: xeus-cling
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - xeus-cling
   - eigen
