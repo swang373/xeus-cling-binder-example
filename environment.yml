@@ -1,0 +1,8 @@
+name: xeus-cling
+channels:
+  - defaults
+dependencies:
+  - xeus-cling
+  - jupyterlab
+  - eigen
+  - pybind11
